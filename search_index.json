@@ -1,0 +1,49 @@
+{
+  "docIdCounter": 4,
+  "documents": [
+    [
+      1,
+      {
+        "id": 1,
+        "url": "https://example.com",
+        "title": "Example Domain",
+        "snippet": "This domain is for use in illustrative examples in documents. You may use this domain in literature without prior coordination or asking for permission."
+      }
+    ],
+    [
+      2,
+      {
+        "id": 2,
+        "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+        "title": "JavaScript | MDN",
+        "snippet": "JavaScript is a lightweight, interpreted, or just-in-time compiled programming language with first-class functions."
+      }
+    ],
+    [
+      3,
+      {
+        "id": 3,
+        "url": "https://search-backend-91dl.onrender.com",
+        "title": "Custom Search Engine",
+        "snippet": "A fast, lightweight custom web search engine built with Node.js, Express, and an inverted index database."
+      }
+    ]
+  ],
+  "index": [
+    ["example", [1]],
+    ["domain", [1]],
+    ["documents", [1]],
+    ["javascript", [2]],
+    ["mdn", [2]],
+    ["programming", [2]],
+    ["language", [2]],
+    ["search", [3]],
+    ["engine", [3]],
+    ["node", [3]],
+    ["express", [3]],
+    ["backend", [3]],
+    ["custom", [3]],
+    ["info", [3]],
+    ["about", [3]]
+  ]
+}
